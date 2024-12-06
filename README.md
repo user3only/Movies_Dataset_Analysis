@@ -1,1 +1,1 @@
-# Movies_Dataset_Analysis
+Movies Dataset Analysis: Analyzed a dataset of 10,000 movies using Python and Pandas to uncover trends in budget, popularity, runtime, and profitability. Key insights include the dominance of medium-length, high-budget movies in popularity and revenue. Genre analysis highlighted Drama and Action as consistently popular, with visualizations aiding data-driven conclusions.
